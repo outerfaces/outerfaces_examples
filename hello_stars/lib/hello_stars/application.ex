@@ -19,6 +19,7 @@ defmodule HelloStars.Application do
         :hello_stars,
         HelloStarsWeb,
         [
+          "hello_world",
           "hello_moon",
           "hello_stars"
         ],
