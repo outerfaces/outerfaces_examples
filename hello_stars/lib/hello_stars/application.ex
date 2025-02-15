@@ -5,8 +5,6 @@ defmodule HelloStars.Application do
 
   use Application
 
-  alias Outerfaces.Endpoints.DefaultInitializer, as: OuterfacesInit
-
   @impl true
   def start(_type, _args) do
     children = [
