@@ -39,7 +39,7 @@ defmodule HelloStars.MixProject do
       {:jason, "~> 1.2"},
       {:dns_cluster, "~> 0.1.1"},
       {:bandit, "~> 1.5"},
-      {:outerfaces, "~> 0.2.0"}
+      {:outerfaces, "~> 0.2.2"}
     ]
   end
 

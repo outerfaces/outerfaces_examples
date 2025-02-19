@@ -45,7 +45,7 @@ Add Outerfaces to your list of dependencies in `mix.exs`:
 ```elixir
 defp deps do
   [
-    {:outerfaces, "~> 0.2.0"}
+    {:outerfaces, "~> 0.2.2"}
   ]
 end
 ```
