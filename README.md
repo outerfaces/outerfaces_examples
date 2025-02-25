@@ -1,4 +1,14 @@
-# Examples
+# Outerfaces Examples
+
+## What is Outerfaces?
+
+Outerfaces is an experimental web framework that is built on top of Elixir + Phoenix.
+
+It is designed to streamline web application development by integrating front-end and back-end workflows within a single codebase, while maintaining their separation.
+
+Outerfaces is still a hobby project and in early development, and as such is not recommended for production use.
+
+See the core library [here](https://github.com/outerfaces/outerfaces_ex_core).
 
 ## Hello Stars
 
@@ -45,7 +55,7 @@ Add Outerfaces to your list of dependencies in `mix.exs`:
 ```elixir
 defp deps do
   [
-    {:outerfaces, "~> 0.2.2"}
+    {:outerfaces, "~> 0.2.3"}
   ]
 end
 ```
